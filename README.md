@@ -1,2 +1,2 @@
 # swipe-app
- todo & watch
+Mobile app. Swipe for clock.
